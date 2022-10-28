@@ -1,2 +1,0 @@
-yo = 'yo'
-print(yo)
